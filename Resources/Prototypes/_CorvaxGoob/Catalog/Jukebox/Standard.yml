@@ -1,0 +1,5 @@
+- type: jukebox
+  id: vino_pure
+  name: Vino - Pure
+  path:
+    path: /Audio/_CorvaxGoob/Jukebox/VinoPure.ogg
