@@ -600,6 +600,7 @@
     - AdvancedRoboticsBoards # CorvaxGoob MutableLaws
     # Goobstation Packs
     - SharedBoards
+    - Cloning # CorvaxGoob Cloning
   - type: MaterialStorage
     whitelist:
       tags:
@@ -664,6 +665,8 @@
     - BasicCybernetics
     - MedicalCybernetics
     - AdvancedCybernetics
+    - PowerAugments
+    - ToolAugments
     - PowerCells
   - type: EmagLatheRecipes # Goobstation
     emagStaticPacks:
